@@ -1,1 +1,1 @@
-# Machine_learning_and_data_science
+# Udemy course - Python for Machine Learnig & Data Science Masterclass - Jose Portilla
